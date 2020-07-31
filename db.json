@@ -1,8 +1,16 @@
 {
-  "categorias": [
-    { "id": 1, "nome": "Front End", "categoria": "typicode", "cor": "#cbd1ff" },
-    { "id": 2, "nome": "Back End", "categoria": "typicode", "cor": "#cbd1ff" },
-    { "id": 3, "nome": "Side End", "categoria": "typicode", "cor": "#cbd1ff" }
+
+  "categorias":[ 
+                {"id": 1, "titulo": "Games", "cor":"red", "url":"https://www.youtube.com/watch?v=ajLUZzVKr_Y"},
+                {"id": 1, "titulo": "Games", "cor":"white", "url":"https://www.youtube.com/watch?v=NggNXotKjts"},
+                {"id": 1, "titulo": "Games", "cor":"blue", "url":"https://www.youtube.com/watch?v=8_IliTlWWbM"}  
+                ],
+
+  "videos": [
+    { "id": 1, "categoriaId": "3", "titulo": "fufuraMath", "video": "https://www.youtube.com/watch?v=28Fn1FGntck" },
+    { "id": 2, "categoriaId": "3", "titulo": "aaaaaa", "video":  "https://www.youtube.com/watch?v=ZvAjGHbJ7TI" },
+    { "id": 3, "categoriaId" : "4", "titulo": "KendraFoster", "video":  "https://www.youtube.com/watch?v=sO0wkv-9rKg" }
   ]
+
 }
 

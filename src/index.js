@@ -7,11 +7,8 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-function Pagina404() {
-  return (
-    <div>Página não encontrada!</div>
-  );
-}
+// Desafio master blaster na descrição
+const Pagina404 = () => (<div>Página 404</div>)
 
 ReactDOM.render(
   <BrowserRouter>
