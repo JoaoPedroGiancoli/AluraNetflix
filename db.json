@@ -1,0 +1,8 @@
+{
+  "categorias": [
+    { "id": 1, "nome": "Front End", "categoria": "typicode", "cor": "#cbd1ff" },
+    { "id": 2, "nome": "Back End", "categoria": "typicode", "cor": "#cbd1ff" },
+    { "id": 3, "nome": "Side End", "categoria": "typicode", "cor": "#cbd1ff" }
+  ]
+}
+
