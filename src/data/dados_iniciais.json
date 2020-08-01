@@ -1,68 +1,83 @@
-{
-  "categorias": [
+"categorias": [
+    
     {
-      "titulo": "Progamando",
+      "titulo": "StandUp",
+      "cor": "#00C86F",
+      "link_extra": {
+      },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "THIAGO VENTURA - TIGAS E OS 300 DE ESPARTA l Legendado",
+          "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Rodrigo Marques - Especial de Comédia - O Problema é Meu - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=xaq5wV24TH0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "AFONSO PADILHA - VOCÊ FAZ O QUE VOCÊ GOSTA?",
+          "url": "https://www.youtube.com/watch?v=WdjUwA648Uo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }        
+          "titulo": "ESPECIAL DE COMÉDIA - TRAGO VERDADES com Emerson Ceará (Episódio 1)",
+          "url": "https://www.youtube.com/watch?v=ID8_S_ngtuk"
+        }
       ]
     },
+
     {
-      "titulo": "Mundo da TI",
+      "titulo": "Business Intelligence",
+      "cor": "#6b5be2",
+      "link_extra": {
+        },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "What is Tableau? | A Tableau Overview",
+          "url": "https://www.youtube.com/watch?v=YfE9jBq002s"
+        },
+        {
+          "titulo": "TC18 Tip Battle Round 2 Tableau Version 9",
+          "url": "https://www.youtube.com/watch?v=kFUmuGlux-0"
+        },
+        {
+          "titulo": "Curso Básico de Power BI - Aula 01",
+          "url": "https://www.youtube.com/watch?v=merUYMASzWw"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Code",
+      "cor": "red",
+      "link_extra": {
+      },
+      "videos": [
+        {
+          "titulo": "Introdução a programação Reativa - Pokedéx Reativo #1",
+          "url": "https://www.youtube.com/watch?v=7DbPSiA4ENg&t=14s"
+        },
+        {
+          "titulo": "Selenium com Python #00 - Abertura do curso",
+          "url": "https://www.youtube.com/watch?v=PHHXksljGNA&t=192s"
+        },
+        {
+          "titulo": "Python na Prática fazendo Web Scraping (de JavaScript dinâmico) // Mão no Código #28",
+          "url": "https://www.youtube.com/watch?v=Vxl5jUltHBo&t=374s"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
         },
         {
           "titulo": "O que é Data Science?",
@@ -75,148 +90,32 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        },
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     },
     {
-      "titulo": "Entrevistas e Palestras",
+      "titulo": "Series",
+      "cor": "orange",
       "videos": [
         {
-          "titulo": "Provoca - Paola Carosella",
-          "url": "https://www.youtube.com/watch?v=3FWFSkM8IZg"
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=VaOt6tXyf2Y"
         },
         {
-          "titulo": "Talk Flow - Canibalismo na Venezuela",
-          "url": "https://www.youtube.com/watch?v=i7ZNMVcbA2E"
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=JkUWmxhtU4E"
         },
         {
-          "titulo": "Flow Podcast - Vitor Metaforando",
-          "url": "https://www.youtube.com/watch?v=tHbFukPmM9s"
+          "titulo": "Mr. Robot",
+          "url": "https://www.youtube.com/watch?v=N6HGuJC--rk"
         },
         {
-          "titulo": "Flow Podcast - Dilera",
-          "url": "https://www.youtube.com/watch?v=YdpzHlGau9o"
-        },
-        {
-          "titulo": "Flow Podcast - Pedro Loos",
-          "url": "https://www.youtube.com/watch?v=2YXEtKboQas"
-        },
-        {
-          "titulo": "Diffus - Aurora",
-          "url": "https://www.youtube.com/watch?v=iTyb_tNsvN4"
-        },
-        {
-          "titulo": "Mario Sergio Cortella - Eu não dirijo",
-          "url": "https://www.youtube.com/watch?v=Lg9TGWcBY4w"
-        }
-      ]
-    },
-    {
-      "titulo": "Músicas",
-      "videos": [
-        {
-          "titulo": "Aurora - Daydreamer",
-          "url": "https://www.youtube.com/watch?v=9KAQaKydqA0"
-        },
-        {
-          "titulo": "My First Story - Reviver",
-          "url": "https://www.youtube.com/watch?v=VvShHLo88_c"
-        },
-        {
-          "titulo": "Naruto Main Theme - Medieval style",
-          "url": "https://www.youtube.com/watch?v=-eR26nzi7Mw"
-        },
-        {
-          "titulo": "3DG - Somebody that I used to know cover",
-          "url": "https://www.youtube.com/watch?v=AhmsLuY0fNk"
-        },
-        {
-          "titulo": "Aurora - Scarborough Fair",
-          "url": "https://www.youtube.com/watch?v=4Kh6bZ8ky_I"
-        },
-        {
-          "titulo": "Summertime Sadness - Medieval style",
-          "url": "https://www.youtube.com/watch?v=BDaRBEz9M3c"
-        },
-        {
-          "titulo": "Confetti - Ghost",
-          "url": "https://www.youtube.com/watch?v=IDj_SBw3C_E"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "videos": [
-        {
-          "titulo": "Detroit: Become Human - What Happens if You Don't Let Chloe Go",
-          "url": "https://www.youtube.com/watch?v=Oy3s-B_JjBQ"
-        },
-        {
-          "titulo": "So I got addicted to Kingdom Come: Deliverance...",
-          "url": "https://www.youtube.com/watch?v=wuyl0Zrw3QI"
-        },
-        {
-          "titulo": "Paralives - Meet Sebastian",
-          "url": "https://www.youtube.com/watch?v=GJAm8UEi4CE"
-        },
-        {
-          "titulo": "RIO Raised In Oblivion - Teaser Trailer",
-          "url": "https://www.youtube.com/watch?v=l8ypmhlLtUE"
-        },
-        {
-          "titulo": "Civilization VI - Império Jovem Nerd",
-          "url": "https://www.youtube.com/watch?v=GYXitJlMf8M&t=223s"
-        }
-      ]
-    },
-    {
-      "titulo": "Culinária",
-      "videos": [
-        {
-          "titulo": "Nutella vegana caseira",
-          "url": "https://www.youtube.com/watch?v=31rXnKWYWrE"
-        },
-        {
-          "titulo": "Nhoque de legumes diversos",
-          "url": "https://www.youtube.com/watch?v=nGxj5wXUlsk"
-        },
-        {
-          "titulo": "5 lanches rápidos e saudáveis",
-          "url": "https://www.youtube.com/watch?v=nma2hkRg87k"
-        },
-        {
-          "titulo": "Ideias de café da manhã para toda a semana",
-          "url": "https://www.youtube.com/watch?v=qe3tftDehVw&t=191s"
-        },
-        {
-          "titulo": "Bolo de banana vegano",
-          "url": "https://www.youtube.com/watch?v=Ngy0DEGLmUA"
-        },
-        {
-          "titulo": "Receita de macarrão",
-          "url": "https://www.youtube.com/watch?v=qsghxhVBzNU"
+          "titulo": "Better Call Saul",
+          "url": "https://www.youtube.com/watch?v=FAdiEjeNRi0"
         }
       ]
     }
+    
+    
   ]
 }

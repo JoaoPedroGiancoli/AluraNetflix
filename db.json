@@ -1,16 +1,183 @@
 {
-
-  "categorias":[ 
-                {"id": 1, "titulo": "Games", "cor":"red", "url":"https://www.youtube.com/watch?v=ajLUZzVKr_Y"},
-                {"id": 1, "titulo": "Games", "cor":"white", "url":"https://www.youtube.com/watch?v=NggNXotKjts"},
-                {"id": 1, "titulo": "Games", "cor":"blue", "url":"https://www.youtube.com/watch?v=8_IliTlWWbM"}  
-                ],
-
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "StandUp",
+      "descricao": "Categoria de StandUp",
+      "cor": "#00C86F",
+      "link_extra": {}
+    },
+    {
+      "id": 2,
+      "titulo": "Business Intelligence",
+      "descricao": "Categoria de Business Intelligence",
+      "cor": "#6b5be2",
+      "link_extra": {}
+    },
+    {
+      "id": 3,
+      "titulo": "Code",
+      "descricao": "Categoria de Code",
+      "cor": "red",
+      "link_extra": {}
+    },
+    {
+      "id": 4,
+      "titulo": "Data Science e Inteligência Artificial",
+      "descricao": "Categoria de Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Series",
+      "descricao": "Categoria de Series",
+      "cor": "orange"
+    },
+    {
+      "id": 6,
+      "titulo": "Música",
+      "descricao": "Categoria de música",
+      "cor": "#4285f4",
+      "link_extra": {}
+    }
+  ],
   "videos": [
-    { "id": 1, "categoriaId": "3", "titulo": "fufuraMath", "video": "https://www.youtube.com/watch?v=28Fn1FGntck" },
-    { "id": 2, "categoriaId": "3", "titulo": "aaaaaa", "video":  "https://www.youtube.com/watch?v=ZvAjGHbJ7TI" },
-    { "id": 3, "categoriaId" : "4", "titulo": "KendraFoster", "video":  "https://www.youtube.com/watch?v=sO0wkv-9rKg" }
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "THIAGO VENTURA - TIGAS E OS 300 DE ESPARTA l Legendado",
+      "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Rodrigo Marques - Especial de Comédia - O Problema é Meu - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=xaq5wV24TH0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "AFONSO PADILHA - VOCÊ FAZ O QUE VOCÊ GOSTA?",
+      "url": "https://www.youtube.com/watch?v=WdjUwA648Uo"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "ESPECIAL DE COMÉDIA - TRAGO VERDADES com Emerson Ceará (Episódio 1)",
+      "url": "https://www.youtube.com/watch?v=ID8_S_ngtuk"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "What is Tableau? | A Tableau Overview",
+      "url": "https://www.youtube.com/watch?v=YfE9jBq002s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "TC18 Tip Battle Round 2 Tableau Version 9",
+      "url": "https://www.youtube.com/watch?v=kFUmuGlux-0"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Curso Básico de Power BI - Aula 01",
+      "url": "https://www.youtube.com/watch?v=merUYMASzWw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": "Introdução a programação Reativa - Pokedéx Reativo #1",
+      "url": "https://www.youtube.com/watch?v=7DbPSiA4ENg&t=14s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 3,
+      "titulo": "Selenium com Python #00 - Abertura do curso",
+      "url": "https://www.youtube.com/watch?v=PHHXksljGNA&t=192s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "Python na Prática fazendo Web Scraping (de JavaScript dinâmico) // Mão no Código #28",
+      "url": "https://www.youtube.com/watch?v=Vxl5jUltHBo&t=374s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 4,
+      "titulo": "Curso Python #01 - Seja um Programador",
+      "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 4,
+      "titulo": "O que é Data Science?",
+      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 4,
+      "titulo": "Melhor forma de aprender Python",
+      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+    },
+    {
+      "id": 14,
+      "categoriaId": 4,
+      "titulo": "Como ingressar no mercado de Data Science?",
+      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+    },
+    {
+      "id": 15,
+      "categoriaId": 5,
+      "titulo": "Breaking Bad",
+      "url": "https://www.youtube.com/watch?v=VaOt6tXyf2Y"
+    },
+    {
+      "id": 16,
+      "categoriaId": 5,
+      "titulo": "Dark",
+      "url": "https://www.youtube.com/watch?v=JkUWmxhtU4E"
+    },
+    {
+      "id": 17,
+      "categoriaId": 5,
+      "titulo": "Mr. Robot",
+      "url": "https://www.youtube.com/watch?v=N6HGuJC--rk"
+    },
+    {
+      "id": 18,
+      "categoriaId": 5,
+      "titulo": "Better Call Saul",
+      "url": "https://www.youtube.com/watch?v=FAdiEjeNRi0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 6,
+      "titulo": "Marcelo Falcão - Viver (Clipe Oficial)",
+      "url": "https://www.youtube.com/watch?v=OMOVBjrv2-w"
+    },
+    {
+      "id": 20,
+      "categoriaId": 6,
+      "titulo": "Charlie Brown Jr. - Só os Loucos Sabem (Video Clipe)",
+      "url": "https://www.youtube.com/watch?v=JRJj4z-prvM"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "Red Hot Chili Peppers - Otherside [Official Music Video]",
+      "url": "https://www.youtube.com/watch?v=rn_YodiJO6k"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "O Rappa e Rapadura - Reza Vela / Nordeste me Veste [Acústico na Oficina Francisco Brennand]",
+      "url": "https://www.youtube.com/watch?v=JR8Cl7hRn8M"
+    }
+
   ]
-
 }
-
